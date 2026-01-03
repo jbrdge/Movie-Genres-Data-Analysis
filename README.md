@@ -1,2 +1,2 @@
-# movie_genres_data_analysis
+# Movie Genres Data Analysis
 Exploratory Data Analysis on Movie data
