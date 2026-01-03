@@ -10,7 +10,7 @@ Along the way, we answer the questions:
 2. Which genres have high avg. budget and revenue?
 3. Which genres have a profit?
 4. Which genres have high avg. popularity?
-5. Which genres have highest number of movies with a voting avg. >= 3.8?
+5. Which genres have highest number of movies with a voting avg. >= 8?
 
 
 **Research Hypothesis (H)**
@@ -18,3 +18,4 @@ Along the way, we answer the questions:
 2. The best movies according to popularity return high profit and revenue.
 3. Highly budgeted movies return high revenue and profit.
 4. Highly budgeted movies have a high popularity.
+5. The profit per genre per year increases for some genres and decreases for others. 
