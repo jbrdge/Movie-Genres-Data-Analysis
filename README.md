@@ -1,5 +1,5 @@
 # Movie Genres Data Analysis
-Exploratory Data Analysis on Movie data
+Exploratory Data Analysis on Movie data, guided project for analystbuilder.com course: "Pandas for Data Analysis"
 
 The notebook in this repository acts as a walkthrough of the exploratory data analysis.
 
